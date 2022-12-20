@@ -5,3 +5,13 @@
   margin: 0px auto;
   padding: 0px 15px;
 }
+@font-face {
+  font-family: "Avenir";
+  src: url("/Notab/fonts/Avenir-Heavy.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 900;
+}
+body {
+  font-family: "Noto" , sans-serif ;
+  font-size: 32px;
+}
