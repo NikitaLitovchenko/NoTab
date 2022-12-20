@@ -12,6 +12,44 @@
   font-weight: 900;
 }
 body {
-  font-family: 'Noto sans' , sans-serif;
-  font-size: 32px;
+  background-color:#000;
+  color: #fff;
+  
 }
+a {
+  color: #fff;
+}
+h1 , h2 , h3 , h4 , h5 , h6 {
+  font-family: "Montserrat" , sans-serif;
+}
+/***********
+HEADER
+*///////////
+.header {
+  
+  &__container {
+  display: flex;
+  align-items: center;
+  gap: 110px;
+  }
+  &__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  &__cube {
+
+  }
+
+  &__text {
+    
+  }
+
+  &__login  {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  }
+}
+
