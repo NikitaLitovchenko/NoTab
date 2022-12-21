@@ -67,5 +67,5 @@ HEADER
   max-width: 375px;
 }
 .main__text img {
-  position: absolute;
+  float: left;
 }/*# sourceMappingURL=assets.css.map */
