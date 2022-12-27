@@ -49,23 +49,4 @@ HEADER
   display: flex;
   align-items: center;
   gap: 13px;
-}
-
-.main__row {
-  display: flex;
-}
-.main__title {
-  font-size: 64px;
-  line-height: 70px;
-  margin-bottom: 129px;
-}
-.main__text {
-  position: relative;
-  font-family: "Noto sans", sans-serif;
-  line-height: 27px;
-  font-size: 20px;
-  max-width: 375px;
-}
-.main__text img {
-  float: left;
 }/*# sourceMappingURL=assets.css.map */

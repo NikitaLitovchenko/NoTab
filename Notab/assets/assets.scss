@@ -58,38 +58,7 @@ HEADER
   gap: 13px;
   }
 }
-.main {
 
-  &__container {}
-
-  &__row {
-    display: flex;
-  }
-
-  &__title {
-    font-size: 64px;
-    line-height: 70px;
-    margin-bottom: 129px;
-  }
-
-  &__text {
-    position: relative;
-    font-family: "Noto sans" , sans-serif;
-    line-height: 27px;
-    font-size: 20px;
-    max-width: 375px;
-  }
-
-  &__iphone {}
-
-  &__bg {}
-
-  &__phone {}
-}
-.main__text img {
-  float: left;
-
-}
 
 
 
